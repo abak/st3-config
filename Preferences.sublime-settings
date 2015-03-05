@@ -1,0 +1,30 @@
+{
+	"color_scheme": "Packages/Theme - Augmented Reaction/Augmented Reaction.tmTheme",
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.git",
+		"*.config",
+		"*.creator",
+		"*.creator*",
+		"*.files",
+		"*.includes",
+		"*.user",
+		"*.orig",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"build"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Augmented Reaction.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

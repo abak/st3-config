@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CMake-Sublime-Package",
+		"Markdown Preview",
+		"Package Control",
+		"Theme - Augmented Reaction"
+	],
+	"repositories":
+	[
+		"https://github.com/jcowgar/CMake-Sublime-Package"
+	]
+}
